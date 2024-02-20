@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.baitap3 {
+    width: auto;
+    height: 500px;
+    background-color: rgb(219, 219, 219);
+    margin: 30px;
+    padding: 150px 30px;
+}
+
+.baitap3 .logo {
+    text-align: center;
+}
+
+.baitap3 h1 {
+    margin: 20px;
+    text-align: center;
+}
+
+.baitap3 h5 {
+    margin: 20px 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.baitap3 .input {
+    position: relative;
+}
+
+.baitap3 .input input {
+    width: 350px;
+    margin: 20px auto;
+    padding: 15px 20px;
+    border: 0px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.baitap3 .input span {
+    color: #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-215%,-50%);
+    position: absolute;
+    user-select: none;
+    pointer-events: none;
+}
+
+.baitap3 button {
+    margin: 10px auto;
+    padding: 15px 20px;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: rgb(54, 201, 201);
+    border: 0px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
