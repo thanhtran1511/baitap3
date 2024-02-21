@@ -6,7 +6,7 @@
 .baitap3 {
     width: auto;
     height: 500px;
-    background-color: rgb(219, 219, 219);
+    background-color: #d3d3d3;
     margin: 30px;
     padding: 150px 30px;
 }
@@ -56,7 +56,7 @@
     color: white;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: rgb(54, 201, 201);
+    background-color: rgb(61, 204, 204);
     border: 0px;
     border-radius: 5px;
     display: flex;
